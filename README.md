@@ -14,6 +14,10 @@
   <sub>Diseñado para ofrecer una lectura clara del negocio desde cualquier dispositivo.</sub>
 </div>
 
+<p align="center">
+  <img src="assets/gestor-inventario-hero.png" alt="Gestor de Inventario de Recicladora Los Mellizos en computadora y teléfono" width="100%" />
+</p>
+
 ---
 
 ## Acerca del proyecto
@@ -23,6 +27,20 @@ Recicladora Los Mellizos es un sistema web de gestión creado para centralizar l
 La interfaz utiliza una identidad visual en tonos beige y gris oscuro, navegación adaptable y componentes intuitivos. El panel principal presenta indicadores, alertas y gráficos para conocer rápidamente la situación del negocio.
 
 > Este es el repositorio público de presentación. El código fuente, la configuración interna y los datos de la empresa permanecen en un repositorio privado.
+
+## Una sola plataforma para todo el negocio
+
+<p align="center">
+  <img src="assets/modulos-destacados.png" alt="Vistas de Inventario, Finanzas y Préstamos" width="100%" />
+</p>
+
+<div align="center">
+
+| Control operativo | Información conectada | Decisiones claras |
+|:---:|:---:|:---:|
+| Compras, ventas e inventario | Personas, pagos y préstamos | Indicadores, alertas y gráficos |
+
+</div>
 
 ## Funciones principales
 
